@@ -30,7 +30,7 @@ for i in range(2024, 0, -3):
 #6
 numInicial = 3
 numFinal = 10
-multiplo = 2
+multiplo = 6
 
 for i in range(numInicial, numFinal + 1):
     if i % multiplo == 0:
